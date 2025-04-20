@@ -3,7 +3,8 @@
 </h1>
 
 <div align="center">
-  This boilerplate provides a modern React setup specifically designed for FiveM development.
+ Esta versión fue modificada y actualizada para poder usarse en la actualidad con las últimas versiones del Framework y librerías, en este caso se quitó Mantine y se migró a Shadcn, también se migró la versión 3 de tailwind al 4. 
+REACT + VITE + TS (20/04/2025)
 </div>
 
 <div align='center'>
